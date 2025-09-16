@@ -8,5 +8,4 @@ wheels/
 
 # Virtual environments
 .venv
-
-apikey.env
+.env
